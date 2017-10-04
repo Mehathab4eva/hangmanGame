@@ -1,0 +1,3 @@
+var userScore = 0;
+
+
